@@ -34,8 +34,4 @@ I'm also always open to opportunity; specifically, I'm interested in crypto, SWE
 
 DM me on Twitter [@kristiehuang](https://twitter.com/kristiehuang), message me on Facebook, or email me.
 
---- 
-*Last updated August 28, 2020*
-
-
 [#she256]: http://she256.org/

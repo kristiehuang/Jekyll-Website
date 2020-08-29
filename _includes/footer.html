@@ -3,10 +3,8 @@
 
   <div class="wrapper">
 
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
         <ul class="contact-list">
           <li class="p-name">
@@ -17,7 +15,7 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email-scraping }}</a></li>
             {%- endif -%}
         </ul>
       </div>
@@ -27,6 +25,9 @@
       </div>
 
       <div class="footer-col footer-col-3">
+        {%- if site.last-updated -%}
+          Last updated {{ site.last-updated | escape }}
+        {%- endif -%}
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
