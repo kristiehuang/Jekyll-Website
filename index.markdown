@@ -12,8 +12,8 @@ I use she/her pronouns. My curiosities include startups, crypto, diversity/equit
 
 ✨ [More on me](/more-on-me)
 
-Currently:
-* Bettering the blockchain space as Operations Lead @ she256. Working on a jobs platform for underrepresented groups in blockchain + community engagement.
+### Currently:
+* Bettering the blockchain space as Operations Lead @ [she256][#she256]. Working on a jobs platform for underrepresented groups in blockchain + community engagement.
 * iOS engineering intern @ Facebook University, building a payments app to split donations to nonprofits.
 * Trying my hardest to sit down and study EECS + Business @ UC Berkeley Management, Entrepreneurship, and Technology Program.
 * Tweeting all things tech + startups + crypto + DEI.
@@ -32,7 +32,10 @@ I love meeting new people! If you've read this far, please say hi :) Let's chat 
 
 I'm also always open to opportunity; specifically, I'm interested in crypto, SWE, product internships for summer 2021.
 
-DM me on Twitter @kristiehuang, message me on Facebook, or email me.
+DM me on Twitter [@kristiehuang](https://twitter.com/kristiehuang), message me on Facebook, or email me.
 
-LinkedIn: /in/kristie-huang
-GitHub: @kristiehuang
+--- 
+*Last updated August 28, 2020*
+
+
+[#she256]: http://she256.org/
